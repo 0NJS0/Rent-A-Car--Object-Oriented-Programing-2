@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_car_detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_customer_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="admin_Owner_details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Closing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Renter_browse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Renter_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Renter_history.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Renter_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Renter_Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Renter_selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loading Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Remove_Car.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Remove_Owner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Remove_Renter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_Listing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner Renting History.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_Add_Car.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_Log_In.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_regitration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Owner_selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Selection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Renter_Register.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
